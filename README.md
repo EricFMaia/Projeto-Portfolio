@@ -4,4 +4,4 @@ Este é o meu portfólio pessoal, desenvolvido com HTML, CSS e JavaScript puro. 
 
 O objetivo deste projeto é compartilhar meu trabalho e continuar evoluindo minhas habilidades, atualizando o site com novos projetos ao longo do tempo.
 
-Pagina do Projeto https:
+Pagina do Projeto https: https://ericfmaia.github.io/Projeto-Portfolio/
