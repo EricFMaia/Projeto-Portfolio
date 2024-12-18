@@ -320,7 +320,10 @@ section{
     background-size: cover;
 }
 .card-1{
-    /*img project*/
+    background-image: url(../assets/Jogo-da-velha.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 .card-2{
